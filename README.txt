@@ -1,0 +1,3 @@
+-open thebestwebserver.exe
+-visit localhost/index.html from web browser
+-make sure to include index.html in the local folder. 
